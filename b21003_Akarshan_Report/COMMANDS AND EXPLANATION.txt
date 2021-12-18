@@ -1,0 +1,63 @@
+REQUEST TO READ CAREFULLY TILL END...
+Challenge 1:
+1.git add .
+2.git commit -m"   "
+3.Creating pull requests
+4.git config user.name
+5.git config user.email
+6.git branch challenge1
+7.git checkout challenge1
+8.git remote add origin <url>
+9.git push origin challenge1
+10.git clone url
+
+Challenge 2:
+1.git branch challenge 2
+2.git remote add upstream
+3.git fetch upstream/version 1
+4.git status
+5.git log
+6.git log --oneline
+7.git merge version 1
+
+Challenge 3:
+1.changed source=100 to source=0
+2.vi game.py 
+3.i for inline command in vim
+4.esc + (:x!) for saving work
+5.using nano filename.txt and saving using (ctrl+x)+ changes to buffer Y
+
+Challenge 4:
+1.git reset --hard<commmithash>
+2.git diff challenge3
+3.Used git reset multiple times to toggle between various commits.
+
+Challenge 5:
+1.git branch challenge5
+2.git checkout challenge5
+3.touch vicku.txt
+4.git add . and git commit -m" "  various times to update commits per statement
+5.git log --oneline
+6.git rebase -i Head~4
+7.Got a new Window using command 6. Left one as pick,squashed middle ones,drop Don't reward with F
+8.made pull requests
+
+Challenge 6:
+1.vi cfg.py and edited picture to iitmandi.jpg
+2.git diff to differentiate between branches
+3.git stash
+4.git branch challenge6
+5.git stash pop
+6.used git stash pop again to make sure no stash elements left and then used git stash clear
+7.Pull request
+
+Challenge 7:
+1.git fetch upstream/challenge-7
+2.git merge challenge 7
+3.GOT A MERGE CONFLICT
+4.git mergetool ---->opened AN INTERFACE
+5.git status and git diff to find conflict characters
+6.used :diffg RE on Merge Window to take from remote
+7.Used git commit -m" " to finally resolve the conflict.
+
+ALSO IN PYTHON USED ->>>>>>pip install pillow and pip install pygame.
