@@ -49,7 +49,7 @@ def main():
     generate_food_freq = random.randint(10, 20)
     generate_food_count = 0
 
-    score = 1000
+    score = 0
     highest_score = 0 if not os.path.exists(cfg.HIGHEST_SCORE_RECORD_FILEPATH) else int(open(cfg.HIGHEST_SCORE_RECORD_FILEPATH).read())
 
     clock = pygame.time.Clock()
