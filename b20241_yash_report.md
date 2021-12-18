@@ -51,15 +51,16 @@
 ![success...](Images/working-game-ss.png)
 <br />
 
+**Bonus Part**
+
+![bonus-->git_log](Images/bonus1.png)
+<br />
+
+![game_ss_with_apples](Images/game-with-apples.png)
+<br />
+
 
 
 _Thanks and Regards_
 
-_Yash Sharma_
-
-
-**Bonus Part**
-
-![bonus-->git_log](Images/bonus1.png)
-
-![game_ss_with_apples](Images/game-with-apples.png)
+_Yash Sharma B20241_
