@@ -54,8 +54,6 @@ fetched ,merged and commited new background into Challenge7 branch
 
 
 # Game Screenshots 
-Had to use iit-mandi.jpg for background as iitmandi2.jpg from challenge 6 is not included in resources
-
 
 ![](./game.png)
 ![](./game2.png)
