@@ -28,7 +28,7 @@ to drop last commit
 rebased the remaining 3 commits with "git rebase -i HEAD~3"
 
 ## after rebase
-![](./gitlogoneline-C5.png)
+![](./gitlogoneline2-C5.png)
 
 # Challenge6
 changed background2.jpg to iit-mandi.jpg in cfg.py in same challenge5 branch
