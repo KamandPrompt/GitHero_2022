@@ -3,7 +3,11 @@ import os
 IMAGE_PATHS = {
     'gold': os.path.join(os.getcwd(), 'resources/images/gold.png'),
     'apple': os.path.join(os.getcwd(), 'resources/images/apple.png'),
-    'background': os.path.join(os.getcwd(),'resources/images/iit-mandi.jpg' ),
+<<<<<<< HEAD
+    'background': os.path.join(os.getcwd(),'resources/images/iit-mandid.jpg' ),
+=======
+    'background': os.path.join(os.getcwd(), 'resources/images/iitmandi2.jpg'),
+>>>>>>> upstream/challenge-7
     'hero': [os.path.join(os.getcwd(), 'resources/images/%d.png' % i) for i in range(1, 11)]
 }
 
